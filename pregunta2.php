@@ -35,7 +35,7 @@ $edad = $_POST['edad'];
                         </div>
                     </div>
                 </div>
-            </div>"
+            </div>";
         }else{
             echo "<script>alert('¡Alerta! Usted es menor de edad.');</script>";
         }
